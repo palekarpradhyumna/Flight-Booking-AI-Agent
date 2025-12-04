@@ -11,6 +11,7 @@
 
 FlightMate is an intelligent **Flight Booking AI Agent** that allows users to search, compare, and book flights through natural language chats.  
 It connects with a backend API that provides flight data and automates the full booking experience.
+Project Video Link : https://www.loom.com/share/04efbe2196b54fb19e543333633868c3
 
 ---
 
