@@ -5,12 +5,6 @@
   Powered by AI • Built for Conversational Travel Experiences
 </p>
 
-<p align="center">
-  <a href="#"><img src="https://img.shields.io/badge/Status-Active-brightgreen" alt="Project Status"></a>
-  <a href="LICENSE"><img src="https://img.shields.io/badge/License-MIT-blue.svg" alt="License"></a>
-  <a href="#"><img src="https://img.shields.io/badge/AI%20Agent-Vertex_AI-success" alt="Tech Stack"></a>
-</p>
-
 ---
 
 ## 🚀 Overview
