@@ -30,8 +30,8 @@ Project Video Link : https://www.loom.com/share/04efbe2196b54fb19e543333633868c3
 
 | Component | Technology |
 |----------|------------|
-| AI Agent | Google Vertex AI Playbooks / Agents |
-| Backend | Python + FastAPI / Flask |
+| AI Agent | Google Vertex AI Playbooks |
+| Backend | Python + FastAPI |
 | Tunneling | Ngrok |
 | Data Format | JSON |
 | Tool Invocation | OpenAPI-based function calling |
